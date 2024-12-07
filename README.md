@@ -1,1 +1,1 @@
-Janken_B19027
+Janken
